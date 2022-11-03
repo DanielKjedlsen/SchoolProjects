@@ -1,0 +1,15 @@
+C:\Users\dvdkj\OneDrive\Skrivebord\RAD\bin\Debug\net6.0\RAD.exe
+C:\Users\dvdkj\OneDrive\Skrivebord\RAD\bin\Debug\net6.0\RAD.deps.json
+C:\Users\dvdkj\OneDrive\Skrivebord\RAD\bin\Debug\net6.0\RAD.runtimeconfig.json
+C:\Users\dvdkj\OneDrive\Skrivebord\RAD\bin\Debug\net6.0\RAD.dll
+C:\Users\dvdkj\OneDrive\Skrivebord\RAD\bin\Debug\net6.0\RAD.pdb
+C:\Users\dvdkj\OneDrive\Skrivebord\RAD\obj\Debug\net6.0\RAD.csproj.AssemblyReference.cache
+C:\Users\dvdkj\OneDrive\Skrivebord\RAD\obj\Debug\net6.0\RAD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dvdkj\OneDrive\Skrivebord\RAD\obj\Debug\net6.0\RAD.AssemblyInfoInputs.cache
+C:\Users\dvdkj\OneDrive\Skrivebord\RAD\obj\Debug\net6.0\RAD.AssemblyInfo.cs
+C:\Users\dvdkj\OneDrive\Skrivebord\RAD\obj\Debug\net6.0\RAD.csproj.CoreCompileInputs.cache
+C:\Users\dvdkj\OneDrive\Skrivebord\RAD\obj\Debug\net6.0\RAD.dll
+C:\Users\dvdkj\OneDrive\Skrivebord\RAD\obj\Debug\net6.0\refint\RAD.dll
+C:\Users\dvdkj\OneDrive\Skrivebord\RAD\obj\Debug\net6.0\RAD.pdb
+C:\Users\dvdkj\OneDrive\Skrivebord\RAD\obj\Debug\net6.0\RAD.genruntimeconfig.cache
+C:\Users\dvdkj\OneDrive\Skrivebord\RAD\obj\Debug\net6.0\ref\RAD.dll
