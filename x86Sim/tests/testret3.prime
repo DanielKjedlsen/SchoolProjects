@@ -1,0 +1,7 @@
+test:
+    movq $8, %rdx
+    movq $8, %rcx
+    movq $16, %rdi
+    ret %rsi
+    movq $16, %rsi
+    ret %r11

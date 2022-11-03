@@ -1,0 +1,12 @@
+test:
+    movq $8, %rdx
+    movq $8, %rcx
+    movq $16, %rdi
+    movq $16, %rsi
+.LFB0:
+    jmp .L2
+    subq $8, %rsp
+    movq %r11, (%rsp)
+    movq $0, %eax
+.L2:
+    ret %r11

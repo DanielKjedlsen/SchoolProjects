@@ -1,0 +1,16 @@
+test:
+    movq $8, %rdx
+    movq $8, %rcx
+    movq $16, %rdi
+    movq $16, %rsi
+.L4:
+    subq $8, %rsp   
+    movq %r11, (%rsp)
+    call .LFB1, %r11
+    movq (%rsp), %r11
+    ret %r11
+.LFB1:
+    subq $8, %rsp
+    movq %r11, (%rsp)
+    addq $8, %rsp
+    ret %r11
